@@ -1,0 +1,6 @@
+C:\Users\beni\Desktop\SeleQuick2\SeleQuick2\bin\Debug\SeleQuick2.exe.config
+C:\Users\beni\Desktop\SeleQuick2\SeleQuick2\bin\Debug\SeleQuick2.exe
+C:\Users\beni\Desktop\SeleQuick2\SeleQuick2\bin\Debug\SeleQuick2.pdb
+C:\Users\beni\Desktop\SeleQuick2\SeleQuick2\obj\Debug\SeleQuick2.csprojResolveAssemblyReference.cache
+C:\Users\beni\Desktop\SeleQuick2\SeleQuick2\obj\Debug\SeleQuick2.exe
+C:\Users\beni\Desktop\SeleQuick2\SeleQuick2\obj\Debug\SeleQuick2.pdb
